@@ -1,0 +1,77 @@
+### Data esla.yml
+# members details
+---
+members:
+
+  - name: "LM2S SAS"
+    address:  "44 Avenue du 8 mai 1945"
+    address2: "ZI des Reniers"
+    zipcode: "FR 92390"
+    city: "Villeneuve-la-Garenne"
+    country: "FRANCE"
+    country_code: "fr"
+    url: "http://www.lm2s.fr"
+
+  - name: "LPR GmbH"
+    address: "Jydekrogen 18"
+    address2: ""
+    zipcode: "D-41460"
+    city: "Neuss"
+    country: "GERMANY"
+    country_code: "de"
+    url: "http://www.lpr.de"
+
+  - name: "Beteiligungsgesellschaft Lagermax AED International GmbH"
+    address: "Radingerstrasse 16"
+    address2: ""
+    zipcode: "A-5020"
+    city: "Salzburg"
+    country: "AUSTRIA"
+    country_code: "at"
+    url: "http://www.lagermax-aed.com"
+
+  - name: "DANX A/S"
+    address: "Jydekrogen 18"
+    address2: "Vallensbæk"
+    zipcode: "DK-2625"
+    city: "Copenhagen"
+    country: "DANEMARK"
+    country_code: "dk"
+    url: "http://www.danx.dk"
+
+  - name: "SLS Special Logistic Services"
+    address: "Takkebijsters 51"
+    address2: ""
+    zipcode: "NL-4817 BL"
+    city: "Breda"
+    country: "THE NETHERLANDS"
+    country_code: "nl"
+    url: "http://www.sls-nederland.nl"
+
+  - name: "Quali-Night AG"
+    address: "Hardfeld 3"
+    address2: ""
+    zipcode: "CH-5742"
+    city: "Kölliken"
+    country: "SWITZERLAND"
+    country_code: "ch"
+    url: "http://www.quali-night.ch"
+
+
+# esla Statistics
+stats:
+
+  countries: 24
+  hubs: 40
+  pudos: 664
+  fsl: 158
+  regional_depots: 102
+  tours_per_day: 430
+  tours_per_night: 832
+  linehauls: 202
+  avg_on_time_delivery_performance: 99.7
+  warehouse_space_m2: 60_000
+  repairs_per_day: 3_100
+  repair_centers: 2
+
+---

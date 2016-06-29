@@ -1,4 +1,4 @@
-//= require jquery/dist/jquery.min
+//= require sweetalert2/dist/sweetalert2.min
 
-//= require angular/angular
-//= require angular-route/angular-route
+//= require angular/angular.min
+//= require angular-route/angular-route.min

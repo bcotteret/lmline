@@ -17,4 +17,3 @@ gem "jasmine", "~> 2.4"
 gem "neat", "~> 1.7"
 gem "sassc", "~> 1.8"
 gem "slim"
-

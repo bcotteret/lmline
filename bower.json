@@ -2,7 +2,7 @@
   "name": "lmline",
   "version": "1.0.0",
   "authors": [
-    "Ryuichi Nonaka"
+    "Bruno Cotteret"
   ],
   "main": "index.js",
   "license": "MIT",

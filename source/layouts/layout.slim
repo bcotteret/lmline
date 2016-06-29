@@ -5,10 +5,8 @@ html lang="fr"
     meta content="IE=edge" http-equiv="X-UA-Compatible"
     meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"
 
-    <!-- Use title if it's in the page YAML frontmatter -->
-    title = current_page.data.title || "Middleman"
-
-    link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'
+    / ! Use title if it's in the page YAML frontmatter
+    title = current_page.data.title || "LM2S Prototype"
 
     = stylesheet_link_tag :application
 
