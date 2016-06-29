@@ -1,0 +1,26 @@
+{
+  "name": "lmline",
+  "version": "1.0.0",
+  "authors": [
+    "Ryuichi Nonaka"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "http://lm2s.fr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor/bower_components",
+    "spec",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "1.5.7",
+    "angular-route": "~1.5.7"
+  },
+  "resolutions": {
+    "angular": "1.5.7",
+    "angular-route": "^1.5.7"
+  }
+}
